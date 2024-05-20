@@ -1,6 +1,6 @@
 # Machine Learning Module
 
-For the Spanish version, click [here](#Modulo-de-Machine_Learning)
+For the Spanish version, click [here](#Módulo-de-Machine-Learning)
 
 ## **Repository Contents**
 
@@ -37,7 +37,7 @@ Common evaluation metrics include:
 - Precision, Recall, F1-Score for classification.
 - Mean Squared Error (MSE) for regression.<br><br><br><br>
 
-# Modulo de Machine Learning
+# Módulo de Machine Learning
 
 Para versión en inglés haz clic [aquí](#Machine-Learning-Module)
 
