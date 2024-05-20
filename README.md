@@ -43,7 +43,7 @@ Para versión en inglés haz clic [aquí](#Machine-Learning-Module)
 
 ### **Contenido del repositorio**
 
-Este repositorio contiene mi solución para la practica de este modulo en la cual se nos pedía abordar un problema de Machine Learning realista sobre un DataSet de Airbnb, siguiendo la metodología y buenas prácticas explicadas a lo largo del módulo.
+Este repositorio contiene mi solución para la práctica de este módulo en la cual se nos pedía abordar un problema de Machine Learning realista sobre un DataSet de Airbnb, siguiendo la metodología y buenas prácticas explicadas a lo largo del módulo.
 
 El **Machine Learning (ML)** es una rama de la inteligencia artificial (IA) que se centra en el desarrollo de algoritmos y modelos que permiten a las computadoras aprender y hacer predicciones o decisiones basadas en datos. A diferencia de los sistemas programados explícitamente para realizar una tarea específica, los sistemas de machine learning identifican patrones y relaciones en los datos y utilizan estos hallazgos para mejorar su rendimiento a lo largo del tiempo sin intervención humana constante.<br><br>
 
